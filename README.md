@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Personal Fitness Tracker 2.0 is a Java-based application designed to help users track their fitness activities, including running, cycling, and walking. This application allows users to log workouts, calculate calories burned, and track steps taken during their activities, providing a comprehensive summary of their fitness journey.
+The Personal Fitness Tracker 2.0 is an updated Java-based application designed to help users track their fitness activities, including running, cycling, and walking. This application allows users to log workouts, calculate calories burned, and track steps taken during their activities, providing a comprehensive summary of their fitness journey.
 
 ## Features
 
